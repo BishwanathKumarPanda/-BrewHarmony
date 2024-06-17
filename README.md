@@ -11,3 +11,8 @@ Stylish Typography and Color Scheme: Thoughtfully chosen fonts and a harmonious 
 # Technologies Used:
 HTML: Structures the content and layout of the website, ensuring a semantic and accessible design.
 CSS: Adds styling to the website, creating a visually appealing and cohesive design that enhances the user experience.
+# Screenshots
+![Screenshot (103)](https://github.com/BishwanathKumarPanda/FileFusion/assets/138992024/25810908-ef66-460a-a642-106650c42c42)
+![Screenshot (104)](https://github.com/BishwanathKumarPanda/FileFusion/assets/138992024/95569397-4f21-4d77-8e83-e4f0fc463e29)
+![Screenshot (105)](https://github.com/BishwanathKumarPanda/FileFusion/assets/138992024/4d1265d8-4e16-45d0-92d9-763172e599d2)
+![Screenshot (106)](https://github.com/BishwanathKumarPanda/FileFusion/assets/138992024/2f45354a-117f-49f8-90be-cdec29c2e277)
